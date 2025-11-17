@@ -3,12 +3,12 @@ This project combines user research and basic data analysis to understand how Va
 The goal is to connect player behavior, map-level performance data, and self-reported experience to generate insights that can inform product or map improvements in gaming environments.
 
 **### Data Sources**
-- Player Survey Data (`survey/survey_results.csv`):
+- Player Survey Data (`data/survey_data.xlsx`):
   - Map preference (favorite / least favorite)
   - Player roles (Duelist, Controller, Initiator, Sentinel)
   - Gameplay style, communication habits, emotional experience
   - Pain points like coordination issues or map unfamiliarity
-- Match Performance Dataset (`data/raw_data.csv`):
+- Match Performance Dataset (`data/player_stats.csv`):
   - Kill, Death, ADR, KAST, Headshot %
   - Cleaned & anonymized for analysis
 
